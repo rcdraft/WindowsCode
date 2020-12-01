@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>WindowsCode</RootNamespace>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>RelaperCrystal</Authors>
+    <Description>Improves experience when coding under Windows. WindowsCode provides OOP way to call Windows APIs.</Description>
+    <Copyright>(C) RelaperCrystal 2020, 2021</Copyright>
+    <PackageLicenseExpression>LGPL-3.0-or-later</PackageLicenseExpression>
+    <AssemblyVersion>0.1.0.0</AssemblyVersion>
+    <FileVersion>0.1.0.0</FileVersion>
+  </PropertyGroup>
+
+</Project>
